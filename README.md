@@ -95,5 +95,5 @@ especially for minority classes.
 
 ---
 
-## 👤 Author
+## Author
 Giuseppe Cioffo
