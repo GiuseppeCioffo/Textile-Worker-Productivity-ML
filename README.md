@@ -90,7 +90,7 @@ especially for minority classes.
 
 ## Notes
 
-- Notebooks are provided **fully executed** for reproducibility and readability
+- Notebooks are provided fully executed for reproducibility and readability
 - The original raw dataset is not included for size and licensing reasons. Available at the link above in the 'Data' section
 
 ---
